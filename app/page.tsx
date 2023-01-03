@@ -5,9 +5,9 @@ import './globals.css';
 
 export default function Home() {
   return (
-    <main className={styles.main}>
-      <div className="text-red-500">
-        <h1>Next 13.0.4 and tailwind installed</h1>
+    <main>
+      <div className="text-green-500 bg-blue-500">
+      
       </div>
     </main>
   )
